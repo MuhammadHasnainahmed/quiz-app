@@ -22,7 +22,7 @@ const question = [
     'a': "Hypertext Markup languages",
     'b': "Cascading style sheet",
     'c': "Jason object Notation",
-    'd': "Helicopters Terminals Motorboats Lamborginis",
+    'd': "Helicopters Terminals Motorboats Lamborginis", 
     'correct': "b",
   },
 
